@@ -1,4 +1,7 @@
-
+/**
+Written By: Yaseer Sabir.
+Topic: Inheritance
+**/ 
 public class Bomb extends Piece {
 	private boolean deadly;
 
